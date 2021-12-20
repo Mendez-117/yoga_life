@@ -1,0 +1,99 @@
+body{
+    background-color: #ff9966;
+    text-align: center;
+}
+
+h1{
+    width: 100%;
+    margin-top: 0;
+    font-size: 30px !important;
+}
+
+#bruh{
+    width:100%;
+}
+
+.eh{
+    width: 100%;
+    font-size: 25px !important;
+}
+
+#about{
+    background-color:#94e892 ;
+}
+
+.ehh{
+    height: 100% !important;
+    width:80px;
+    margin-top:0 !important;
+    font-size: 30px;
+}
+
+#hmm{
+    float: left;
+    margin-top: 200px;
+}
+
+#ehhh{
+    margin-top:10px;
+    width: 0px !important;
+}
+
+#pix{
+    background-color:#a0ebf2;
+}
+
+.left{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px !important;
+}
+
+
+.picc{
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
+
+#ehhhh{
+    width: 1100px;
+}
+
+.centre{
+    vertical-align: middle !important;
+    
+}
+
+.right{
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px !important;
+}
+
+#vids{
+    background-color: #ffcdc9;
+}
+
+.vid{
+    width: 1000px;
+    height: 400px;
+}
+
+.poop{
+    width: 700px !important;
+    height: 350px !important;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.xbox{
+    width: 100%  !important;
+    height: 1000px !important;
+}
+
+.batchi{
+    margin-top: 10px;
+    text-align: center;
+    height:90px;
+}
